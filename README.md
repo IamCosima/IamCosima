@@ -26,4 +26,4 @@
 #
 
 
-![IamCosima's GitHub stats](https://github-readme-stats.vercel.app/api?username=IamCosima&show_icons=true&theme=tokyonight)
+<!--![IamCosima's GitHub stats](https://github-readme-stats.vercel.app/api?username=IamCosima&show_icons=true&theme=tokyonight) -->
